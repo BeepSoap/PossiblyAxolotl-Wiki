@@ -29,5 +29,7 @@ Some members are featured publicly on the YouTube channel, however there are man
 |[PinoPrime](/pinoprime)|[YouTube](https://www.youtube.com/@PinoPrime)|
 |[PixelzwithaZ](/pixelzwithaz)|[YouTube](https://www.youtube.com/@pixelzwithaz)|
 |[PossiblyAxolotl](/youtube)|[YouTube](https://www.youtube.com/@PossiblyAxolotl)|
+|[Sockable](/sockable)|[YouTube](https://www.youtube.com/@Sockable)|
 |[TomIzDumb](/tomizdumb)|[YouTube](https://www.youtube.com/@TomIzDumb)|
+
 
